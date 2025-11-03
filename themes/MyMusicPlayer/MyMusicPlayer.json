@@ -43,7 +43,7 @@
         "pauseImage" : "none",
         "imageIsBlack" : "YES",
         "isAlbumArt" : "0",
-        "imageURL" : "play.png",
+        "imageURL" : "play.jpg",
         "SFSymbolName" : "none",
         "cornerRadius" : "0",
         "imageColor" : "rgba(255, 255, 255, 0.40)"
@@ -105,7 +105,7 @@
         "pauseImage" : "none",
         "imageIsBlack" : "YES",
         "isAlbumArt" : "0",
-        "imageURL" : "prev.png",
+        "imageURL" : "prev.jpg",
         "SFSymbolName" : "none",
         "cornerRadius" : "0",
         "imageColor" : "rgba(255, 255, 255, 0.40)"
@@ -128,7 +128,7 @@
         "pauseImage" : "none",
         "imageIsBlack" : "YES",
         "isAlbumArt" : "0",
-        "imageURL" : "skip.png",
+        "imageURL" : "skip.jpg",
         "SFSymbolName" : "none",
         "cornerRadius" : "0",
         "imageColor" : "rgba(255, 255, 255, 0.39)"
@@ -173,7 +173,7 @@
             "pauseImage" : "none",
             "imageIsBlack" : "YES",
             "isAlbumArt" : "0",
-            "imageURL" : "pause.png",
+            "imageURL" : "pause.jpg",
             "SFSymbolName" : "none",
             "cornerRadius" : "0",
             "imageColor" : "rgba(255, 255, 255, 0.24)"
@@ -215,7 +215,7 @@
         "pauseImage" : "none",
         "imageIsBlack" : "none",
         "isAlbumArt" : "yes",
-        "imageURL" : "no-audio-image.png",
+        "imageURL" : "no-audio-image.jpg",
         "SFSymbolName" : "none",
         "cornerRadius" : "10",
         "imageColor" : "none"
